@@ -17,6 +17,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
+![Alt Text](https://github.com/ClaytonRichardson/Coepath-Week-8/blob/master/week8vuln1.gif)
 
 Vulnerability #2: __________________
 
